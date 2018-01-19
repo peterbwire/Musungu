@@ -1,0 +1,48 @@
+/* type selectors */
+
+
+/* class selectors */
+
+/* ID selectors */
+
+/* universal selectors */
+
+/* descendant selectors */
+
+/* child selectors */
+
+/* adjacent sibling selectors */
+
+/* link pseudo-class selectors */
+.nav{
+	background-color: black;
+	opacity: .8;
+	padding: 0;
+	margin: 0;
+	display: inline;
+
+}
+
+li{
+	display: inline;font-size: 40px;height: 100px;padding: 10px;text-align: center;
+}
+
+.intro{background-color: skyblue;padding: 20px}
+
+
+a:hover{background-color: yellow;}
+body{padding: 10px;color: white;background-image:url();background-size: cover;}
+
+#list1{
+width: 220px;
+height:585px;
+background-color: black;
+opacity:.8;
+line-height: 40px;
+text-align: center;
+font-size: 20px;display: inline}
+h2{font-family: ani;font-size: 55px;color: pink}
+.footer{color: blue}
+
+.nav{border: 2px;
+border:dotted;}
